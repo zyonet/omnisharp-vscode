@@ -71,7 +71,7 @@
     "async-file": "2.0.2",
     "fs-extra": "5.0.0",
     "http-proxy-agent": "2.1.0",
-    "https-proxy-agent": "2.2.1",
+    "https-proxy-agent": "2.2.3",
     "jsonc-parser": "1.0.0",
     "mkdirp": "0.5.1",
     "node-filter-async": "0.0.4",
